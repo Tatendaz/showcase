@@ -6,17 +6,33 @@
 
 ---
 
-## Screenshots
+## Screens
 
-> 🎨 The images below are **high-fidelity design prototypes** of the Kintree UI — the native app's intended look and one-flow-across-platforms design — rendered iOS alongside Android. (Live in-app captures coming once the public build config is wired up.)
+> 🎨 High-fidelity prototypes of the Kintree **"Asia" design language** — the locked visual direction (warm cream surfaces, cinnabar accent, Public Sans display). Every screen is rendered **iOS alongside Android**: one flow, both platforms, skinned together. *(Live in-app captures land once the public build config is wired.)*
 
-**Onboarding — "sign in → your family"** (iOS & Android, one flow):
+**Sign in — one onboarding, both platforms**
 
-![Kintree — sign-in / onboarding flow, iOS & Android (design prototype)](../assets/familytreeapp-1.png)
+![Kintree — sign in, iOS & Android](../assets/kintree-signin.png)
 
-**Relatives & premium interactions** — relative cards, add-relative / share-tree actions, motion study:
+**Your family trees**
 
-![Kintree — relatives & premium interactions (design prototype)](../assets/familytreeapp-2.png)
+![Kintree — family trees list, iOS & Android](../assets/kintree-trees.png)
+
+**The family tree — pan / zoom canvas**
+
+![Kintree — generational tree canvas, iOS & Android](../assets/kintree-tree.png)
+
+**Add a person**
+
+![Kintree — add-a-person sheet, iOS & Android](../assets/kintree-add-person.png)
+
+**Person & relationships**
+
+![Kintree — person detail with relationships, iOS & Android](../assets/kintree-person.png)
+
+**Premium motion & interactions**
+
+![Kintree — premium motion lab, iOS & Android](../assets/kintree-premium.png)
 
 ---
 
