@@ -44,3 +44,4 @@ at an architectural level, **without exposing source, secrets, or anything sensi
 - LinkedIn — <https://www.linkedin.com/in/tatendazhou>
 - Email — <tatendaz@me.com>
 - X — [@realtatendazhou](https://x.com/realtatendazhou)
+- All my projects — <https://builtby.page/tatendaz>
